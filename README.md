@@ -1,3 +1,3 @@
 # awar06-jenkins
 
-Am testing manual build option
+Am testing poll SCM build option
